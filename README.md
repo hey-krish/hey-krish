@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there 👋 I'm Krish
 
-<!--
-**hey-krish/hey-krish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BCA(Hons) Student  
+💻 Full Stack Developer  
+🌱 Learning React, Node.js & AI/ML  
+🔥 Building real-world projects every day
 
-Here are some ideas to get you started:
+## Tech Stack
+- React
+- JavaScript
+- Node.js
+- Redux Toolkit
+- Python
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Myntra Clone
+- Social Media App
+- ML Projects
+- Redux Shopping Cart
+
+## Connect With Me
+- LinkedIn
+- Portfolio
+- Email
